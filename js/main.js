@@ -5,6 +5,7 @@ createApp({
   data() {
     return {
       message: "Hello Vue!",
+      image: "./img/02.webp",
     };
   },
 }).mount("#app");
